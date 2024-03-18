@@ -1,0 +1,15 @@
+This project name is flower website.
+
+the main feature of this website are:
+ 
+responsive navication bar section using flexbox.
+responsive home section using flexbox.
+responsive about section using flexbox.
+responsive product card section using flexbox.
+responsive review section using flexbox.
+responsive contact section using flexbox.
+responsive footer  section using flexbox.
+ 
+the source of images in this website is (pinterest).
+
+this is one of my first poject whitch I created in (vs code).
